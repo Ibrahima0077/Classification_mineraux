@@ -32,12 +32,10 @@ Créer un modèle capable d’identifier automatiquement un minéral à partir d
 ## À venir
 
 - Entraînement sur plus d’epochs
-- Visualisation des courbes loss/accuracy
 - Augmentation du dataset
-- Intégration des prédictions dans une interface
 
 ## Auteur
 
-Projet réalisé par [IBRAHIMA DIAKITE] dans le cadre de son apprentissage en Deep Learning.
+Projet réalisé par [IBRAHIMA DIAKITE] dans le cadre de mon apprentissage en Deep Learning.
 
 
